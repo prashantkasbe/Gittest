@@ -1,6 +1,5 @@
+Again updating previous version for testin
+Hello from second file...
 
 
-
-hllo from second file... 
-
-Line added by updating earlier file. version.
+18/03/2017 : this is written from client ( meaning my laptop ).
